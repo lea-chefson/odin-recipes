@@ -11,7 +11,7 @@ A simple webpage made during the foundations course on the Odin Project.
 Since the focus of the lesson was on HTML, the project only uses HTML files with inline styles for formatting.
 ## Demo
 
-https://lea-chefson.github.io/odin-recipes/recipes/som-tam.html
+https://lea-chefson.github.io/odin-recipes/
 
 
 ## Screenshots

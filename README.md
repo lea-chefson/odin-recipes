@@ -1,14 +1,9 @@
 
 # odin-recipes
 
-A simple webpage made during the foundations course on the Odin Project.
+A simple webpage using only HTML and CSS made during the foundations course on the Odin Project.
 
 
-
-
-##  Notes
-
-Since the focus of the lesson was on HTML, the project only uses HTML files with inline styles for formatting.
 ## Demo
 
 https://lea-chefson.github.io/odin-recipes/
